@@ -7,6 +7,6 @@
 zhong|skjfsj|fsf|sjfk
 ni|shfh|wo|ddd
 
-1.fsf
-2.gag
-3.gsag
+1. fsf
+2. gag
+3. gsag
